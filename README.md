@@ -1,3 +1,6 @@
+# JavaScript-Projects
+This Repo contains all projects which I have created using basics of JavaScript.
+
 # DOM-Project
 Project-1: Created a dynamic color scheme switcher that allows users to customize the appearance of webpage by choosing from predefined color schemes. 
 Project-2: Developed a BMI calculator web application that allows users to input their weight and height, calculates their BMI, and provides information about their weight status.
